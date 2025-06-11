@@ -82,6 +82,9 @@
         font-size: 3rem;
         margin: 70px 0;
       }
+      #element{
+        font-size: 45px;
+      }
       .leftSection .btn1{
         background-color: purple;
         padding: 12px;
